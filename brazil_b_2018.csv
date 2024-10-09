@@ -1,0 +1,381 @@
+﻿home,away,home_goal,away_goal,home_shots,away_shots,home_possession,away_possession
+Fortaleza,Guarani,2,1,19,7,0.6,0.4
+Oeste,CRB,2,0,15,7,0.44,0.56
+AtlÃ©tico GO,CriciÃºma,3,2,17,21,0.44,0.56
+Figueirense,Juventude,2,1,4,10,0.5,0.5
+Brasil de Pelotas,SÃ£o Bento,1,1,9,10,0.57,0.43
+Vila Nova,AvaÃ­,1,0,9,9,0.47,0.53
+CSA,GoiÃ¡s,2,1,16,14,0.4,0.6
+Londrina,Boa,1,0,12,7,0.6,0.4
+Sampaio CorrÃªa,Coritiba,2,0,18,5,0.51,0.49
+Ponte Preta,Paysandu,0,1,12,10,0.65,0.35
+Boa,Fortaleza,0,2,12,8,0.46,0.54
+Coritiba,AtlÃ©tico GO,1,0,21,9,0.54,0.46
+Juventude,Oeste,1,1,9,11,0.56,0.44
+SÃ£o Bento,CSA,2,1,9,10,0.53,0.47
+Paysandu,Londrina,1,0,16,13,0.51,0.49
+Guarani,Sampaio CorrÃªa,2,0,18,9,0.59,0.41
+AvaÃ­,Brasil de Pelotas,2,2,13,5,0.53,0.47
+GoiÃ¡s,Figueirense,0,2,13,6,0.57,0.43
+CRB,Vila Nova,0,1,11,10,0.63,0.37
+CriciÃºma,Ponte Preta,0,1,18,13,0.57,0.43
+AtlÃ©tico GO,Guarani,3,2,13,12,0.41,0.59
+Fortaleza,CRB,3,1,19,12,0.53,0.47
+Figueirense,Boa,2,0,7,17,0.53,0.47
+CSA,Oeste,5,1,11,8,0.46,0.54
+Coritiba,CriciÃºma,2,1,9,19,0.42,0.58
+Juventude,AvaÃ­,1,3,6,6,0.5,0.5
+Vila Nova,Sampaio CorrÃªa,3,1,17,10,0.56,0.44
+Paysandu,Brasil de Pelotas,2,1,14,4,0.48,0.52
+Ponte Preta,Londrina,0,1,9,8,0.62,0.38
+SÃ£o Bento,GoiÃ¡s,1,1,20,6,0.62,0.38
+CriciÃºma,CSA,1,3,14,6,0.55,0.45
+Boa,Juventude,1,2,15,7,0.65,0.35
+Londrina,Fortaleza,1,1,2,7,0.44,0.56
+Brasil de Pelotas,Figueirense,1,0,16,14,0.47,0.53
+Sampaio CorrÃªa,Paysandu,1,1,15,10,0.49,0.51
+CRB,AtlÃ©tico GO,3,1,21,15,0.43,0.57
+Oeste,Coritiba,1,1,17,14,0.56,0.44
+AvaÃ­,SÃ£o Bento,1,1,26,3,0.65,0.35
+GoiÃ¡s,Vila Nova,1,3,6,12,0.48,0.52
+Guarani,Ponte Preta,2,3,13,11,0.59,0.41
+Sampaio CorrÃªa,CRB,2,3,15,9,0.46,0.54
+Guarani,CriciÃºma,1,0,13,15,0.48,0.52
+Coritiba,Brasil de Pelotas,1,0,17,10,0.46,0.54
+Juventude,Paysandu,1,1,13,10,0.56,0.44
+AtlÃ©tico GO,Londrina,0,0,7,5,0.53,0.47
+SÃ£o Bento,Oeste,1,0,15,12,0.42,0.58
+Figueirense,AvaÃ­,0,1,10,18,0.55,0.45
+CSA,Boa,1,0,8,12,0.46,0.54
+Fortaleza,GoiÃ¡s,3,0,19,7,0.54,0.46
+Vila Nova,Ponte Preta,0,0,10,10,0.51,0.49
+CRB,AvaÃ­,0,4,18,13,0.65,0.35
+CriciÃºma,Juventude,0,0,14,7,0.54,0.46
+GoiÃ¡s,Guarani,1,1,18,10,0.51,0.49
+Figueirense,Fortaleza,1,3,20,19,0.54,0.46
+Ponte Preta,AtlÃ©tico GO,1,3,16,12,0.56,0.44
+Oeste,Vila Nova,2,0,12,15,0.44,0.56
+Londrina,CSA,1,2,16,7,0.68,0.32
+Paysandu,SÃ£o Bento,1,1,16,13,0.62,0.38
+Boa,Coritiba,1,1,15,9,0.47,0.53
+Brasil de Pelotas,Sampaio CorrÃªa,1,2,11,6,0.65,0.35
+CSA,Figueirense,1,4,12,11,0.54,0.46
+Fortaleza,CriciÃºma,2,0,19,14,0.56,0.44
+AvaÃ­,Paysandu,3,1,12,12,0.42,0.58
+AtlÃ©tico GO,Oeste,2,2,13,13,0.47,0.53
+Coritiba,Vila Nova,2,0,7,6,0.45,0.55
+SÃ£o Bento,Juventude,2,2,6,8,0.56,0.44
+Brasil de Pelotas,Londrina,3,0,18,6,0.6,0.4
+GoiÃ¡s,Boa,1,2,16,10,0.66,0.34
+Guarani,CRB,2,0,17,7,0.46,0.54
+Sampaio CorrÃªa,Ponte Preta,1,0,9,12,0.4,0.6
+SÃ£o Bento,Figueirense,1,1,14,14,0.39,0.61
+Londrina,Coritiba,3,2,17,11,0.48,0.52
+Juventude,Guarani,1,0,7,3,0.43,0.57
+Vila Nova,CSA,0,1,20,8,0.74,0.26
+AvaÃ­,CriciÃºma,0,1,12,6,0.49,0.51
+Paysandu,Boa,2,0,6,5,0.46,0.54
+Fortaleza,Sampaio CorrÃªa,1,0,18,7,0.59,0.41
+AtlÃ©tico GO,GoiÃ¡s,1,3,9,14,0.47,0.53
+CRB,Brasil de Pelotas,1,1,17,12,0.6,0.4
+Ponte Preta,Oeste,1,1,18,12,0.59,0.41
+Juventude,AtlÃ©tico GO,2,2,10,14,0.44,0.56
+Figueirense,Londrina,1,1,18,17,0.52,0.48
+CriciÃºma,Paysandu,4,1,13,8,0.55,0.45
+Coritiba,CRB,1,0,10,10,0.5,0.5
+Boa,SÃ£o Bento,2,2,12,12,0.58,0.42
+CSA,Guarani,1,2,17,13,0.48,0.52
+Sampaio CorrÃªa,AvaÃ­,1,1,13,11,0.51,0.49
+Ponte Preta,GoiÃ¡s,2,1,13,12,0.48,0.52
+Oeste,Brasil de Pelotas,0,0,12,8,0.51,0.49
+Vila Nova,Fortaleza,0,0,14,10,0.45,0.55
+Londrina,Juventude,0,1,11,7,0.67,0.33
+GoiÃ¡s,Paysandu,2,1,21,9,0.5,0.5
+AvaÃ­,Coritiba,2,0,12,11,0.49,0.51
+SÃ£o Bento,Fortaleza,2,1,9,8,0.41,0.59
+Guarani,Vila Nova,1,1,13,12,0.53,0.47
+CriciÃºma,Boa,1,1,5,2,0.58,0.42
+CSA,CRB,0,0,13,11,0.45,0.55
+Sampaio CorrÃªa,Oeste,2,0,20,9,0.55,0.45
+AtlÃ©tico GO,Figueirense,3,4,24,9,0.62,0.38
+Brasil de Pelotas,Ponte Preta,0,2,7,8,0.59,0.41
+Juventude,Coritiba,1,1,14,7,0.52,0.48
+Londrina,GoiÃ¡s,1,3,8,18,0.54,0.46
+Figueirense,Sampaio CorrÃªa,1,0,7,5,0.39,0.61
+Guarani,SÃ£o Bento,0,0,7,9,0.55,0.45
+Fortaleza,Brasil de Pelotas,2,0,15,17,0.57,0.43
+Boa,AvaÃ­,0,2,11,8,0.51,0.49
+CRB,Ponte Preta,2,0,17,12,0.48,0.52
+Vila Nova,AtlÃ©tico GO,0,0,10,5,0.52,0.48
+Oeste,CriciÃºma,2,2,24,13,0.57,0.43
+Paysandu,CSA,0,0,9,7,0.65,0.35
+Ponte Preta,CSA,1,1,16,13,0.5,0.5
+AvaÃ­,Guarani,3,3,19,10,0.52,0.48
+Brasil de Pelotas,CriciÃºma,1,0,10,16,0.46,0.54
+GoiÃ¡s,Juventude,1,1,15,7,0.6,0.4
+Coritiba,Figueirense,1,1,17,19,0.52,0.48
+SÃ£o Bento,Londrina,0,1,11,10,0.56,0.44
+Fortaleza,Oeste,1,2,12,9,0.47,0.53
+Boa,Vila Nova,0,2,15,5,0.56,0.44
+Sampaio CorrÃªa,AtlÃ©tico GO,2,3,11,10,0.6,0.4
+CRB,Paysandu,1,1,18,15,0.54,0.46
+Juventude,Vila Nova,0,1,10,13,0.52,0.48
+Oeste,AvaÃ­,1,0,6,22,0.37,0.63
+GoiÃ¡s,CRB,2,1,8,5,0.47,0.53
+CSA,Coritiba,2,2,25,16,0.56,0.44
+AtlÃ©tico GO,Brasil de Pelotas,2,1,17,10,0.53,0.47
+Guarani,Boa,1,1,8,4,0.66,0.34
+Figueirense,Ponte Preta,0,2,5,7,0.54,0.46
+CriciÃºma,SÃ£o Bento,1,0,6,4,0.5,0.5
+Paysandu,Fortaleza,0,1,12,9,0.5,0.5
+Londrina,Sampaio CorrÃªa,1,1,13,6,0.57,0.43
+Coritiba,Paysandu,2,0,16,13,0.5,0.5
+AvaÃ­,GoiÃ¡s,0,1,21,7,0.6,0.4
+AtlÃ©tico GO,Boa,2,0,5,6,0.52,0.48
+CRB,SÃ£o Bento,1,0,24,4,0.58,0.42
+Oeste,Guarani,0,1,15,7,0.61,0.39
+Brasil de Pelotas,CSA,0,2,19,12,0.67,0.33
+Vila Nova,Londrina,1,1,10,11,0.42,0.58
+CriciÃºma,Figueirense,1,1,12,12,0.43,0.57
+Ponte Preta,Fortaleza,2,0,8,4,0.39,0.61
+Guarani,Coritiba,2,1,13,9,0.46,0.54
+Figueirense,Oeste,1,2,12,16,0.57,0.43
+Londrina,AvaÃ­,1,2,21,10,0.69,0.31
+Paysandu,Vila Nova,1,2,15,16,0.59,0.41
+Brasil de Pelotas,Juventude,1,1,5,5,0.56,0.44
+GoiÃ¡s,CriciÃºma,2,1,14,15,0.43,0.57
+Boa,CRB,0,1,13,8,0.51,0.49
+CSA,Sampaio CorrÃªa,1,0,22,11,0.53,0.47
+Fortaleza,AtlÃ©tico GO,0,1,31,8,0.67,0.33
+SÃ£o Bento,Ponte Preta,0,2,7,8,0.57,0.43
+AvaÃ­,AtlÃ©tico GO,0,0,5,3,0.48,0.52
+Sampaio CorrÃªa,Juventude,0,0,16,7,0.58,0.42
+Vila Nova,Brasil de Pelotas,0,0,19,9,0.66,0.34
+Guarani,Figueirense,2,3,12,7,0.6,0.4
+CriciÃºma,Londrina,2,1,14,13,0.48,0.52
+Sampaio CorrÃªa,GoiÃ¡s,1,3,17,12,0.5,0.5
+CSA,Fortaleza,0,0,18,10,0.53,0.47
+Juventude,CRB,1,0,15,15,0.54,0.46
+Coritiba,SÃ£o Bento,2,2,9,11,0.48,0.52
+Oeste,Paysandu,2,2,10,14,0.61,0.39
+Boa,Ponte Preta,2,1,14,9,0.44,0.56
+AtlÃ©tico GO,CSA,2,2,23,5,0.67,0.33
+Brasil de Pelotas,Boa,2,0,11,13,0.63,0.37
+Figueirense,Vila Nova,2,1,12,11,0.43,0.57
+GoiÃ¡s,Coritiba,0,1,11,12,0.57,0.43
+Londrina,Oeste,3,0,9,14,0.45,0.55
+Ponte Preta,Juventude,0,1,6,4,0.64,0.36
+CRB,CriciÃºma,0,0,19,15,0.56,0.44
+Paysandu,Guarani,1,0,7,4,0.52,0.48
+SÃ£o Bento,Sampaio CorrÃªa,2,1,7,17,0.45,0.55
+Fortaleza,AvaÃ­,1,1,19,6,0.52,0.48
+AvaÃ­,CSA,0,0,16,9,0.49,0.51
+Paysandu,Figueirense,2,0,21,9,0.48,0.52
+Guarani,Brasil de Pelotas,2,1,18,12,0.51,0.49
+SÃ£o Bento,AtlÃ©tico GO,2,1,8,13,0.44,0.56
+Juventude,Fortaleza,0,3,15,13,0.53,0.47
+GoiÃ¡s,Oeste,1,0,14,7,0.6,0.4
+CRB,Londrina,1,1,19,11,0.55,0.45
+CriciÃºma,Vila Nova,1,0,13,6,0.54,0.46
+Coritiba,Ponte Preta,0,0,13,12,0.56,0.44
+Boa,Sampaio CorrÃªa,3,1,11,12,0.37,0.63
+Figueirense,CRB,0,0,16,9,0.6,0.4
+AtlÃ©tico GO,Paysandu,1,0,9,5,0.56,0.44
+Londrina,Guarani,1,2,15,14,0.63,0.37
+Oeste,Boa,1,1,14,16,0.51,0.49
+CSA,Juventude,1,0,22,9,0.62,0.38
+Brasil de Pelotas,GoiÃ¡s,1,0,17,13,0.53,0.47
+Fortaleza,Coritiba,2,1,12,7,0.49,0.51
+Vila Nova,SÃ£o Bento,1,0,24,4,0.54,0.46
+Ponte Preta,AvaÃ­,2,2,12,11,0.46,0.54
+Sampaio CorrÃªa,CriciÃºma,0,1,15,12,0.62,0.38
+AvaÃ­,Vila Nova,1,0,8,4,0.55,0.45
+Paysandu,Ponte Preta,0,4,14,14,0.64,0.36
+GoiÃ¡s,CSA,3,0,24,5,0.5,0.5
+Boa,Londrina,1,0,14,16,0.51,0.49
+Coritiba,Sampaio CorrÃªa,0,0,8,3,0.61,0.39
+Guarani,Fortaleza,2,3,11,12,0.44,0.56
+SÃ£o Bento,Brasil de Pelotas,1,1,19,11,0.43,0.57
+CriciÃºma,AtlÃ©tico GO,1,1,9,3,0.5,0.5
+CRB,Oeste,0,1,17,7,0.63,0.37
+Juventude,Figueirense,0,0,26,8,0.55,0.45
+Brasil de Pelotas,AvaÃ­,1,1,14,18,0.51,0.49
+Ponte Preta,CriciÃºma,3,1,14,6,0.51,0.49
+Londrina,Paysandu,2,1,14,7,0.46,0.54
+Vila Nova,CRB,0,0,0,3,0.58,0.42
+Figueirense,GoiÃ¡s,1,2,7,15,0.46,0.54
+Oeste,Juventude,0,0,14,17,0.54,0.46
+Fortaleza,Boa,2,1,18,8,0.52,0.48
+AtlÃ©tico GO,Coritiba,1,0,4,4,0.5,0.5
+Sampaio CorrÃªa,Guarani,0,2,15,14,0.49,0.51
+CSA,SÃ£o Bento,1,0,18,9,0.63,0.37
+Brasil de Pelotas,Paysandu,0,0,12,7,0.58,0.42
+AvaÃ­,Juventude,1,0,17,9,0.57,0.43
+CriciÃºma,Coritiba,2,2,15,11,0.43,0.57
+Londrina,Ponte Preta,1,0,10,10,0.47,0.53
+GoiÃ¡s,SÃ£o Bento,2,1,12,5,0.5,0.5
+Boa,Figueirense,0,2,10,4,0.57,0.43
+CRB,Fortaleza,2,1,11,6,0.47,0.53
+Guarani,AtlÃ©tico GO,2,0,22,5,0.55,0.45
+Oeste,CSA,2,1,10,18,0.49,0.51
+Sampaio CorrÃªa,Vila Nova,0,0,26,9,0.6,0.4
+Figueirense,Brasil de Pelotas,1,1,17,13,0.59,0.41
+Coritiba,Oeste,0,2,22,7,0.59,0.41
+AtlÃ©tico GO,CRB,1,0,16,15,0.63,0.37
+Ponte Preta,Guarani,0,0,15,9,0.58,0.42
+SÃ£o Bento,AvaÃ­,0,1,13,10,0.62,0.38
+Vila Nova,GoiÃ¡s,3,0,11,7,0.4,0.6
+CSA,CriciÃºma,3,0,8,3,0.51,0.49
+Paysandu,Sampaio CorrÃªa,0,1,15,12,0.52,0.48
+Fortaleza,Londrina,2,1,23,6,0.6,0.4
+Juventude,Boa,0,0,10,9,0.55,0.45
+Brasil de Pelotas,Coritiba,0,1,10,7,0.65,0.35
+CriciÃºma,Guarani,0,0,15,14,0.47,0.53
+Oeste,SÃ£o Bento,0,1,15,13,0.66,0.34
+Londrina,AtlÃ©tico GO,4,1,18,10,0.52,0.48
+Paysandu,Juventude,3,3,21,9,0.61,0.39
+Ponte Preta,Vila Nova,1,1,3,5,0.52,0.48
+CRB,Sampaio CorrÃªa,2,1,8,14,0.39,0.61
+AvaÃ­,Figueirense,0,1,24,7,0.59,0.41
+GoiÃ¡s,Fortaleza,3,1,13,10,0.43,0.57
+Boa,CSA,3,0,17,10,0.48,0.52
+Guarani,GoiÃ¡s,0,2,16,14,0.65,0.35
+SÃ£o Bento,Paysandu,1,0,7,14,0.54,0.46
+Juventude,CriciÃºma,0,1,9,3,0.51,0.49
+AvaÃ­,CRB,1,0,14,11,0.46,0.54
+Fortaleza,Figueirense,2,2,18,6,0.59,0.41
+Vila Nova,Oeste,1,1,17,11,0.59,0.41
+AtlÃ©tico GO,Ponte Preta,2,0,13,9,0.49,0.51
+CSA,Londrina,4,1,9,11,0.44,0.56
+Coritiba,Boa,2,1,8,7,0.52,0.48
+Sampaio CorrÃªa,Brasil de Pelotas,1,2,18,3,0.63,0.37
+Oeste,AtlÃ©tico GO,1,2,14,14,0.58,0.42
+Boa,GoiÃ¡s,1,0,12,13,0.44,0.56
+CRB,Guarani,1,1,13,9,0.57,0.43
+Paysandu,AvaÃ­,2,1,20,11,0.47,0.53
+Juventude,SÃ£o Bento,0,2,7,4,0.59,0.41
+Figueirense,CSA,1,2,10,7,0.68,0.32
+CriciÃºma,Fortaleza,2,0,7,14,0.35,0.65
+Londrina,Brasil de Pelotas,1,0,16,9,0.57,0.43
+Ponte Preta,Sampaio CorrÃªa,0,0,8,8,0.55,0.45
+Vila Nova,Coritiba,2,1,14,12,0.49,0.51
+CSA,Vila Nova,1,2,22,9,0.52,0.48
+Guarani,Juventude,1,0,16,8,0.6,0.4
+Coritiba,Londrina,0,1,4,5,0.6,0.4
+Figueirense,SÃ£o Bento,2,2,4,6,0.54,0.46
+Sampaio CorrÃªa,Fortaleza,1,0,9,11,0.4,0.6
+Brasil de Pelotas,CRB,1,0,10,8,0.56,0.44
+CriciÃºma,AvaÃ­,3,2,6,6,0.39,0.61
+Boa,Paysandu,1,1,11,14,0.52,0.48
+GoiÃ¡s,AtlÃ©tico GO,2,1,11,13,0.52,0.48
+Oeste,Ponte Preta,0,0,11,19,0.47,0.53
+AtlÃ©tico GO,Juventude,0,1,13,9,0.65,0.35
+Londrina,Figueirense,2,0,10,12,0.42,0.58
+GoiÃ¡s,Ponte Preta,2,2,24,11,0.64,0.36
+SÃ£o Bento,Boa,0,0,5,8,0.52,0.48
+CRB,Coritiba,1,1,16,10,0.58,0.42
+Fortaleza,Vila Nova,2,0,17,7,0.66,0.34
+Brasil de Pelotas,Oeste,1,3,17,15,0.61,0.39
+Paysandu,CriciÃºma,1,1,17,8,0.62,0.38
+Guarani,CSA,1,0,12,13,0.51,0.49
+AvaÃ­,Sampaio CorrÃªa,3,1,14,15,0.54,0.46
+Fortaleza,SÃ£o Bento,2,1,13,9,0.57,0.43
+Ponte Preta,Brasil de Pelotas,0,1,18,9,0.61,0.39
+Juventude,Londrina,0,0,12,8,0.56,0.44
+Paysandu,GoiÃ¡s,2,3,17,10,0.61,0.39
+Vila Nova,Guarani,1,1,14,15,0.51,0.49
+Oeste,Sampaio CorrÃªa,0,0,13,25,0.42,0.58
+Figueirense,AtlÃ©tico GO,2,2,17,11,0.47,0.53
+CRB,CSA,0,0,15,11,0.5,0.5
+Coritiba,AvaÃ­,1,0,9,13,0.57,0.43
+Boa,CriciÃºma,1,2,15,10,0.56,0.44
+Sampaio CorrÃªa,Figueirense,1,0,7,9,0.44,0.56
+CriciÃºma,Oeste,0,0,13,8,0.5,0.5
+GoiÃ¡s,Londrina,0,0,19,5,0.59,0.41
+CSA,Paysandu,1,0,12,9,0.43,0.57
+SÃ£o Bento,Guarani,1,0,19,12,0.52,0.48
+Brasil de Pelotas,Fortaleza,0,1,10,10,0.54,0.46
+AvaÃ­,Boa,2,0,14,11,0.52,0.48
+Coritiba,Juventude,2,1,9,4,0.59,0.41
+AtlÃ©tico GO,Vila Nova,2,2,16,10,0.61,0.39
+Ponte Preta,CRB,1,0,9,6,0.61,0.39
+Paysandu,CRB,1,1,16,13,0.53,0.47
+CriciÃºma,Brasil de Pelotas,0,1,9,11,0.57,0.43
+Juventude,GoiÃ¡s,3,5,14,16,0.47,0.53
+AtlÃ©tico GO,Sampaio CorrÃªa,1,2,8,8,0.66,0.34
+CSA,Ponte Preta,1,2,11,9,0.66,0.34
+Guarani,AvaÃ­,1,2,18,15,0.65,0.35
+Oeste,Fortaleza,0,0,14,17,0.45,0.55
+Vila Nova,Boa,2,0,8,3,0.55,0.45
+Figueirense,Coritiba,2,2,14,12,0.53,0.47
+Londrina,SÃ£o Bento,2,1,10,7,0.47,0.53
+Coritiba,CSA,1,1,16,14,0.55,0.45
+Brasil de Pelotas,AtlÃ©tico GO,1,2,16,9,0.46,0.54
+CRB,GoiÃ¡s,2,0,22,8,0.51,0.49
+SÃ£o Bento,CriciÃºma,0,0,17,5,0.53,0.47
+Ponte Preta,Figueirense,2,1,9,5,0.39,0.61
+AvaÃ­,Oeste,1,1,10,6,0.51,0.49
+Vila Nova,Juventude,1,0,8,13,0.45,0.55
+Boa,Guarani,2,1,10,14,0.45,0.55
+Fortaleza,Paysandu,1,0,22,7,0.62,0.38
+Sampaio CorrÃªa,Londrina,1,2,16,12,0.62,0.38
+CSA,Brasil de Pelotas,2,0,12,10,0.41,0.59
+Londrina,Vila Nova,3,2,10,8,0.59,0.41
+Juventude,Sampaio CorrÃªa,1,0,6,9,0.42,0.58
+Fortaleza,Ponte Preta,1,1,7,5,0.5,0.5
+GoiÃ¡s,AvaÃ­,0,3,22,13,0.62,0.38
+Guarani,Oeste,1,1,7,5,0.46,0.54
+SÃ£o Bento,CRB,1,0,11,12,0.5,0.5
+Figueirense,CriciÃºma,3,2,18,8,0.49,0.51
+Boa,AtlÃ©tico GO,0,2,16,12,0.5,0.5
+Paysandu,Coritiba,1,1,19,6,0.6,0.4
+CriciÃºma,GoiÃ¡s,2,2,10,11,0.65,0.35
+Juventude,Brasil de Pelotas,0,1,11,9,0.58,0.42
+Ponte Preta,SÃ£o Bento,2,1,13,8,0.56,0.44
+Vila Nova,Paysandu,0,0,18,10,0.64,0.36
+Oeste,Figueirense,0,0,10,6,0.63,0.37
+Sampaio CorrÃªa,CSA,2,3,25,11,0.59,0.41
+AvaÃ­,Londrina,1,1,20,8,0.56,0.44
+CRB,Boa,2,1,11,10,0.49,0.51
+AtlÃ©tico GO,Fortaleza,1,2,21,6,0.67,0.33
+Coritiba,Guarani,0,2,11,15,0.56,0.44
+GoiÃ¡s,Sampaio CorrÃªa,1,0,19,9,0.5,0.5
+Brasil de Pelotas,Vila Nova,5,0,22,12,0.48,0.52
+AtlÃ©tico GO,AvaÃ­,2,2,18,21,0.63,0.37
+Londrina,CriciÃºma,4,2,16,8,0.51,0.49
+Ponte Preta,Boa,1,0,13,10,0.54,0.46
+SÃ£o Bento,Coritiba,5,2,8,8,0.48,0.52
+Figueirense,Guarani,0,0,9,15,0.52,0.48
+Fortaleza,CSA,1,1,17,12,0.58,0.42
+CRB,Juventude,2,0,13,8,0.43,0.57
+Paysandu,Oeste,4,3,17,11,0.55,0.45
+Vila Nova,Figueirense,3,1,13,11,0.38,0.62
+Juventude,Ponte Preta,0,1,10,11,0.6,0.4
+Boa,Brasil de Pelotas,0,1,13,10,0.62,0.38
+Coritiba,GoiÃ¡s,1,0,11,11,0.53,0.47
+Oeste,Londrina,0,0,11,23,0.4,0.6
+CriciÃºma,CRB,3,3,12,18,0.52,0.48
+CSA,AtlÃ©tico GO,0,0,13,16,0.45,0.55
+AvaÃ­,Fortaleza,0,1,14,15,0.57,0.43
+Sampaio CorrÃªa,SÃ£o Bento,2,1,13,14,0.61,0.39
+Guarani,Paysandu,0,2,13,9,0.6,0.4
+Figueirense,Paysandu,2,3,7,25,0.34,0.66
+Ponte Preta,Coritiba,2,0,7,7,0.38,0.62
+Fortaleza,Juventude,4,1,15,11,0.51,0.49
+AtlÃ©tico GO,SÃ£o Bento,1,0,21,6,0.73,0.27
+Londrina,CRB,1,2,22,4,0.7,0.3
+Brasil de Pelotas,Guarani,1,1,14,9,0.56,0.44
+CSA,AvaÃ­,0,1,10,9,0.66,0.34
+Sampaio CorrÃªa,Boa,1,0,16,15,0.49,0.51
+Vila Nova,CriciÃºma,2,2,22,9,0.69,0.31
+Oeste,GoiÃ¡s,1,3,14,13,0.48,0.52
+Coritiba,Fortaleza,1,0,13,14,0.48,0.52
+Guarani,Londrina,1,0,3,0,0.54,0.46
+SÃ£o Bento,Vila Nova,2,2,17,20,0.45,0.55
+Juventude,CSA,0,4,4,6,0.69,0.31
+AvaÃ­,Ponte Preta,0,0,8,8,0.49,0.51
+CriciÃºma,Sampaio CorrÃªa,2,0,11,8,0.52,0.48
+GoiÃ¡s,Brasil de Pelotas,0,1,26,7,0.75,0.25
+Boa,Oeste,0,0,7,20,0.43,0.57
+CRB,Figueirense,2,1,19,10,0.52,0.48
+Paysandu,AtlÃ©tico GO,2,5,23,17,0.61,0.39

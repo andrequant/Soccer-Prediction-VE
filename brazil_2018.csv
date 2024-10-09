@@ -1,0 +1,381 @@
+﻿home,away,home_goal,away_goal,home_shots,away_shots,home_possession,away_possession
+Cruzeiro,Grêmio,0,1,11,5,0.42,0.58
+Vitória,Flamengo,2,2,9,7,0.48,0.52
+Santos,Ceará,2,0,24,10,0.53,0.47
+América Mineiro,Sport Recife,3,0,13,15,0.39,0.61
+Vasco da Gama,Atlético Mineiro,2,1,19,12,0.67,0.33
+Corinthians,Fluminense,2,1,13,15,0.61,0.39
+Internacional,Bahia,2,0,14,12,0.44,0.56
+Atlético PR,Chapecoense,5,1,15,14,0.64,0.36
+Botafogo,Palmeiras,1,1,13,8,0.48,0.52
+São Paulo,Paraná,1,0,12,7,0.51,0.49
+Bahia,Santos,1,0,12,7,0.5,0.5
+Flamengo,América Mineiro,2,0,14,17,0.52,0.48
+Paraná,Corinthians,0,4,16,9,0.57,0.43
+Atlético Mineiro,Vitória,2,1,14,11,0.59,0.41
+Chapecoense,Vasco da Gama,1,1,12,15,0.42,0.58
+Fluminense,Cruzeiro,1,0,3,15,0.36,0.64
+Ceará,São Paulo,0,0,12,11,0.54,0.46
+Palmeiras,Internacional,1,0,12,8,0.46,0.54
+Grêmio,Atlético PR,0,0,21,6,0.54,0.46
+Sport Recife,Botafogo,1,1,21,7,0.54,0.46
+Botafogo,Grêmio,2,1,18,8,0.58,0.42
+Atlético Mineiro,Corinthians,1,0,14,5,0.57,0.43
+Paraná,Sport Recife,1,2,18,10,0.67,0.33
+Bahia,Atlético PR,0,0,22,10,0.43,0.57
+Fluminense,São Paulo,1,1,8,6,0.57,0.43
+Ceará,Flamengo,0,3,8,18,0.45,0.55
+Palmeiras,Chapecoense,0,0,16,6,0.72,0.28
+Internacional,Cruzeiro,0,0,14,8,0.63,0.37
+América Mineiro,Vitória,2,1,11,14,0.41,0.59
+Vasco da Gama,América Mineiro,4,1,19,6,0.6,0.4
+São Paulo,Atlético Mineiro,2,2,8,10,0.45,0.55
+Corinthians,Ceará,1,1,12,5,0.61,0.39
+Cruzeiro,Botafogo,1,0,19,6,0.53,0.47
+Atlético PR,Palmeiras,1,3,9,12,0.56,0.44
+Vitória,Fluminense,1,2,8,13,0.38,0.62
+Flamengo,Internacional,2,0,13,9,0.57,0.43
+Sport Recife,Bahia,2,0,19,7,0.48,0.52
+Grêmio,Santos,5,1,19,8,0.62,0.38
+Chapecoense,Paraná,1,1,12,16,0.45,0.55
+Grêmio,Internacional,0,0,16,5,0.71,0.29
+Cruzeiro,Sport Recife,2,0,10,6,0.59,0.41
+Corinthians,Palmeiras,1,0,10,10,0.51,0.49
+Vasco da Gama,Vitória,2,3,18,10,0.65,0.35
+Chapecoense,Flamengo,3,2,11,16,0.45,0.55
+Atlético PR,Atlético Mineiro,1,2,14,23,0.6,0.4
+Bahia,São Paulo,2,2,11,8,0.45,0.55
+Santos,Paraná,3,1,5,6,0.55,0.45
+Botafogo,Fluminense,2,1,9,21,0.39,0.61
+Ceará,América Mineiro,2,2,21,11,0.6,0.4
+Atlético Mineiro,Cruzeiro,1,0,14,13,0.6,0.4
+Flamengo,Vasco da Gama,1,1,6,13,0.58,0.42
+Palmeiras,Bahia,3,0,11,10,0.53,0.47
+Vitória,Ceará,2,1,13,14,0.51,0.49
+Paraná,Grêmio,0,0,8,8,0.3,0.7
+América Mineiro,Botafogo,1,0,15,8,0.44,0.56
+São Paulo,Santos,1,0,14,7,0.43,0.57
+Sport Recife,Corinthians,1,1,14,7,0.46,0.54
+Fluminense,Atlético PR,2,0,14,18,0.37,0.63
+Internacional,Chapecoense,3,0,14,9,0.52,0.48
+Fluminense,Chapecoense,3,1,10,17,0.4,0.6
+Palmeiras,Sport Recife,2,3,12,13,0.62,0.38
+Atlético Mineiro,Flamengo,0,1,14,8,0.67,0.33
+Paraná,Atlético PR,0,0,15,7,0.42,0.58
+Botafogo,Vitória,1,1,9,6,0.57,0.43
+Bahia,Vasco da Gama,3,0,12,6,0.56,0.44
+Santos,Cruzeiro,0,1,12,11,0.51,0.49
+Internacional,Corinthians,2,1,13,5,0.59,0.41
+Ceará,Grêmio,0,1,13,13,0.4,0.6
+América Mineiro,São Paulo,1,3,12,10,0.48,0.52
+Vasco da Gama,Paraná,1,0,14,10,0.47,0.53
+Sport Recife,Atlético Mineiro,3,2,12,14,0.46,0.54
+Vitória,Internacional,2,3,18,14,0.5,0.5
+São Paulo,Botafogo,3,2,16,11,0.47,0.53
+Chapecoense,Ceará,2,0,14,7,0.53,0.47
+Cruzeiro,Palmeiras,1,0,12,7,0.46,0.54
+Grêmio,Fluminense,0,0,15,6,0.65,0.35
+Flamengo,Bahia,2,0,9,9,0.56,0.44
+Corinthians,América Mineiro,1,0,11,11,0.54,0.46
+Atlético PR,Santos,2,0,13,9,0.46,0.54
+Atlético Mineiro,Chapecoense,3,3,19,7,0.61,0.39
+Internacional,Sport Recife,0,0,10,3,0.59,0.41
+Vasco da Gama,Botafogo,1,2,11,12,0.65,0.35
+Palmeiras,São Paulo,3,1,5,5,0.51,0.49
+América Mineiro,Atlético PR,3,1,19,8,0.46,0.54
+Bahia,Grêmio,0,2,15,9,0.59,0.41
+Flamengo,Corinthians,1,0,8,4,0.53,0.47
+Santos,Vitória,5,2,9,6,0.52,0.48
+Ceará,Cruzeiro,0,1,8,12,0.41,0.59
+Paraná,Fluminense,2,1,10,7,0.46,0.54
+São Paulo,Internacional,0,0,10,14,0.54,0.46
+Vitória,Chapecoense,1,0,15,11,0.5,0.5
+Botafogo,Ceará,0,0,15,8,0.57,0.43
+Sport Recife,Atlético PR,1,0,12,4,0.36,0.64
+Corinthians,Santos,1,1,14,17,0.47,0.53
+Cruzeiro,Vasco da Gama,1,1,19,7,0.66,0.34
+Grêmio,Palmeiras,0,2,14,11,0.49,0.51
+Paraná,Bahia,1,0,14,11,0.46,0.54
+Fluminense,Flamengo,0,2,7,9,0.51,0.49
+América Mineiro,Atlético Mineiro,1,3,18,13,0.53,0.47
+Atlético PR,São Paulo,0,1,11,11,0.56,0.44
+Chapecoense,Cruzeiro,2,0,11,8,0.47,0.53
+Vasco da Gama,Sport Recife,3,2,12,12,0.41,0.59
+Corinthians,Vitória,0,0,19,13,0.58,0.42
+Atlético Mineiro,Fluminense,5,2,17,17,0.48,0.52
+Bahia,Botafogo,3,3,22,13,0.63,0.37
+Ceará,Palmeiras,2,2,18,7,0.44,0.56
+Grêmio,América Mineiro,1,0,5,11,0.6,0.4
+Flamengo,Paraná,2,0,13,8,0.56,0.44
+Santos,Internacional,1,2,13,12,0.58,0.42
+São Paulo,Vitória,3,0,16,10,0.56,0.44
+América Mineiro,Chapecoense,0,0,14,11,0.52,0.48
+Fluminense,Santos,0,1,8,6,0.51,0.49
+Paraná,Cruzeiro,1,1,8,10,0.43,0.57
+Sport Recife,Grêmio,0,0,12,6,0.51,0.49
+Botafogo,Atlético PR,2,0,17,6,0.44,0.56
+Palmeiras,Flamengo,1,1,8,10,0.53,0.47
+Atlético Mineiro,Ceará,2,1,22,8,0.63,0.37
+Bahia,Corinthians,1,0,24,11,0.48,0.52
+Internacional,Vasco da Gama,3,1,13,11,0.54,0.46
+Ceará,Sport Recife,1,0,15,11,0.41,0.59
+Vitória,Paraná,1,0,12,8,0.51,0.49
+Flamengo,São Paulo,0,1,22,13,0.62,0.38
+Corinthians,Botafogo,2,0,8,26,0.45,0.55
+Grêmio,Atlético Mineiro,2,0,20,4,0.6,0.4
+Cruzeiro,América Mineiro,3,1,14,10,0.55,0.45
+Chapecoense,Bahia,1,1,5,11,0.5,0.5
+Vasco da Gama,Fluminense,1,1,12,8,0.53,0.47
+Santos,Palmeiras,1,1,17,9,0.48,0.52
+Atlético PR,Internacional,2,2,21,14,0.51,0.49
+Flamengo,Botafogo,2,0,9,19,0.5,0.5
+São Paulo,Corinthians,3,1,18,9,0.53,0.47
+Paraná,América Mineiro,1,0,13,13,0.47,0.53
+Bahia,Vitória,4,1,14,9,0.53,0.47
+Vasco da Gama,Grêmio,1,0,8,18,0.39,0.61
+Sport Recife,Fluminense,1,2,19,12,0.53,0.47
+Palmeiras,Atlético Mineiro,3,2,8,13,0.46,0.54
+Cruzeiro,Atlético PR,2,1,17,8,0.53,0.47
+Chapecoense,Santos,0,0,12,13,0.55,0.45
+Internacional,Ceará,1,0,10,11,0.61,0.39
+Fluminense,Palmeiras,1,0,7,9,0.41,0.59
+Atlético Mineiro,Paraná,2,0,7,17,0.52,0.48
+Santos,Flamengo,1,1,12,13,0.46,0.54
+Corinthians,Cruzeiro,2,0,11,13,0.46,0.54
+Vitória,Sport Recife,1,0,15,13,0.48,0.52
+Botafogo,Chapecoense,1,0,12,9,0.49,0.51
+Grêmio,São Paulo,2,1,12,5,0.58,0.42
+América Mineiro,Internacional,2,1,7,14,0.38,0.62
+Ceará,Fluminense,1,0,14,10,0.44,0.56
+Vasco da Gama,Corinthians,1,4,9,9,0.51,0.49
+Palmeiras,Paraná,3,0,22,7,0.56,0.44
+Cruzeiro,São Paulo,0,2,13,9,0.58,0.42
+Atlético PR,Vitória,4,0,13,9,0.54,0.46
+Flamengo,Sport Recife,4,1,22,10,0.51,0.49
+Internacional,Botafogo,3,0,14,9,0.51,0.49
+Chapecoense,Grêmio,1,1,16,9,0.55,0.45
+Santos,América Mineiro,0,1,25,3,0.7,0.3
+Bahia,Atlético Mineiro,2,2,24,7,0.61,0.39
+Botafogo,Santos,0,0,16,9,0.51,0.49
+Grêmio,Flamengo,2,0,11,9,0.4,0.6
+Corinthians,Atlético PR,0,0,12,15,0.53,0.47
+Paraná,Ceará,0,1,20,6,0.66,0.34
+América Mineiro,Palmeiras,0,0,9,16,0.51,0.49
+Vitória,Cruzeiro,1,1,16,12,0.55,0.45
+São Paulo,Vasco da Gama,2,1,11,9,0.48,0.52
+Fluminense,Bahia,1,1,11,12,0.49,0.51
+Sport Recife,Chapecoense,1,1,22,10,0.64,0.36
+Atlético Mineiro,Internacional,0,1,12,10,0.57,0.43
+Ceará,Santos,1,1,23,8,0.52,0.48
+Ceará,Atlético PR,0,0,14,19,0.49,0.51
+Bahia,América Mineiro,1,0,20,6,0.55,0.45
+Atlético Mineiro,Santos,3,1,12,7,0.42,0.58
+Paraná,Botafogo,1,1,14,16,0.51,0.49
+Chapecoense,Corinthians,2,1,14,14,0.45,0.55
+Flamengo,Cruzeiro,1,0,10,9,0.53,0.47
+Sport Recife,São Paulo,1,3,17,18,0.48,0.52
+Palmeiras,Vasco da Gama,1,0,11,9,0.54,0.46
+Grêmio,Vitória,4,0,12,11,0.52,0.48
+Fluminense,Internacional,0,3,15,9,0.57,0.43
+Santos,Sport Recife,3,0,12,11,0.48,0.52
+Corinthians,Grêmio,0,1,11,14,0.54,0.46
+Atlético PR,Flamengo,3,0,15,16,0.38,0.62
+Internacional,Paraná,1,0,17,10,0.7,0.3
+Cruzeiro,Bahia,1,1,13,10,0.51,0.49
+Vitória,Palmeiras,0,3,10,26,0.51,0.49
+Botafogo,Atlético Mineiro,0,3,15,21,0.55,0.45
+América Mineiro,Fluminense,0,0,12,12,0.52,0.48
+São Paulo,Chapecoense,2,0,6,11,0.44,0.56
+Vasco da Gama,Ceará,1,1,13,10,0.57,0.43
+Paraná,São Paulo,1,1,14,14,0.46,0.54
+Bahia,Internacional,0,1,20,17,0.6,0.4
+Sport Recife,América Mineiro,0,2,14,6,0.62,0.38
+Palmeiras,Botafogo,2,0,24,11,0.65,0.35
+Fluminense,Corinthians,1,0,15,5,0.5,0.5
+Grêmio,Cruzeiro,1,1,10,8,0.7,0.3
+Flamengo,Vitória,1,0,17,4,0.65,0.35
+Atlético Mineiro,Vasco da Gama,0,0,19,12,0.67,0.33
+Santos,Bahia,2,0,8,11,0.46,0.54
+Atlético PR,Grêmio,2,1,19,8,0.53,0.47
+Corinthians,Paraná,1,0,15,12,0.51,0.49
+Cruzeiro,Fluminense,2,1,11,8,0.47,0.53
+Botafogo,Sport Recife,2,0,19,11,0.46,0.54
+São Paulo,Ceará,1,0,12,6,0.59,0.41
+América Mineiro,Flamengo,2,2,12,13,0.48,0.52
+Vitória,Atlético Mineiro,1,0,18,19,0.43,0.57
+Internacional,Palmeiras,0,0,12,19,0.57,0.43
+Vasco da Gama,Chapecoense,3,1,18,9,0.52,0.48
+Atlético PR,Vasco da Gama,1,0,12,19,0.55,0.45
+Ceará,Bahia,0,2,19,7,0.61,0.39
+Vitória,América Mineiro,1,0,23,6,0.55,0.45
+Grêmio,Botafogo,4,0,19,11,0.57,0.43
+Vasco da Gama,Santos,0,3,18,10,0.6,0.4
+Corinthians,Atlético Mineiro,1,1,6,9,0.57,0.43
+Flamengo,Ceará,0,1,26,10,0.62,0.38
+Atlético PR,Bahia,2,0,28,9,0.58,0.42
+São Paulo,Fluminense,1,1,7,12,0.47,0.53
+Sport Recife,Paraná,1,0,16,16,0.52,0.48
+Cruzeiro,Internacional,0,0,22,14,0.54,0.46
+Chapecoense,Palmeiras,1,2,12,12,0.56,0.44
+Bahia,Sport Recife,2,0,15,9,0.48,0.52
+Botafogo,Cruzeiro,1,1,11,9,0.47,0.53
+Ceará,Corinthians,2,1,17,15,0.4,0.6
+Paraná,Chapecoense,1,1,19,12,0.41,0.59
+Palmeiras,Atlético PR,2,0,10,9,0.49,0.51
+Atlético Mineiro,São Paulo,1,0,6,17,0.41,0.59
+Internacional,Flamengo,2,1,7,12,0.42,0.58
+Fluminense,Vitória,0,0,9,2,0.5,0.5
+Santos,Grêmio,0,0,7,8,0.53,0.47
+América Mineiro,Vasco da Gama,2,1,12,10,0.42,0.58
+Sport Recife,Cruzeiro,0,0,13,9,0.54,0.46
+São Paulo,Bahia,1,0,12,8,0.53,0.47
+Flamengo,Chapecoense,2,0,13,10,0.61,0.39
+América Mineiro,Ceará,0,0,8,12,0.55,0.45
+Fluminense,Botafogo,1,0,15,15,0.44,0.56
+Palmeiras,Corinthians,1,0,14,4,0.55,0.45
+Internacional,Grêmio,1,0,10,13,0.48,0.52
+Paraná,Santos,0,2,14,7,0.47,0.53
+Vitória,Vasco da Gama,1,0,11,12,0.55,0.45
+Atlético Mineiro,Atlético PR,3,1,13,14,0.46,0.54
+Chapecoense,Atlético PR,2,1,15,14,0.52,0.48
+Ceará,Vitória,2,0,18,10,0.47,0.53
+Grêmio,Paraná,2,0,21,9,0.61,0.39
+Vasco da Gama,Flamengo,1,1,13,21,0.39,0.61
+Botafogo,América Mineiro,1,0,14,9,0.55,0.45
+Cruzeiro,Atlético Mineiro,0,0,11,9,0.46,0.54
+Atlético PR,Fluminense,3,1,17,13,0.51,0.49
+Bahia,Palmeiras,1,1,10,9,0.48,0.52
+Santos,São Paulo,0,0,17,8,0.49,0.51
+Corinthians,Sport Recife,2,1,13,15,0.64,0.36
+Chapecoense,Internacional,2,1,21,14,0.51,0.49
+São Paulo,América Mineiro,1,1,9,5,0.58,0.42
+Grêmio,Ceará,3,2,21,6,0.59,0.41
+Atlético PR,Paraná,3,0,16,12,0.52,0.48
+Flamengo,Atlético Mineiro,2,1,7,14,0.48,0.52
+Corinthians,Internacional,1,1,8,10,0.5,0.5
+Vitória,Botafogo,3,4,14,13,0.62,0.38
+Sport Recife,Palmeiras,0,1,12,8,0.51,0.49
+Cruzeiro,Santos,2,1,8,14,0.5,0.5
+Chapecoense,Fluminense,1,2,6,8,0.57,0.43
+Vasco da Gama,Bahia,2,1,12,14,0.59,0.41
+Santos,Vasco da Gama,1,1,11,14,0.55,0.45
+Fluminense,Grêmio,0,1,9,7,0.56,0.44
+América Mineiro,Corinthians,0,0,12,20,0.4,0.6
+Bahia,Flamengo,0,0,14,14,0.44,0.56
+Palmeiras,Cruzeiro,3,1,17,6,0.53,0.47
+Atlético Mineiro,Sport Recife,5,2,23,7,0.61,0.39
+Botafogo,São Paulo,2,2,10,17,0.43,0.57
+Santos,Atlético PR,1,0,16,14,0.63,0.37
+Internacional,Vitória,2,1,15,7,0.65,0.35
+Ceará,Chapecoense,3,1,16,8,0.49,0.51
+Paraná,Vasco da Gama,1,1,22,16,0.44,0.56
+Sport Recife,Internacional,2,1,13,8,0.46,0.54
+Corinthians,Flamengo,0,3,13,13,0.46,0.54
+Vitória,Santos,0,1,20,13,0.6,0.4
+Atlético PR,América Mineiro,4,0,12,8,0.59,0.41
+Chapecoense,Atlético Mineiro,1,0,9,16,0.41,0.59
+São Paulo,Palmeiras,0,2,9,10,0.58,0.42
+Grêmio,Bahia,2,2,25,11,0.7,0.3
+Fluminense,Paraná,4,0,16,9,0.64,0.36
+Botafogo,Vasco da Gama,1,1,18,11,0.51,0.49
+Flamengo,Fluminense,3,0,18,14,0.49,0.51
+Santos,Corinthians,1,0,15,9,0.49,0.51
+Bahia,Paraná,2,0,22,8,0.68,0.32
+Chapecoense,Vitória,0,1,17,17,0.58,0.42
+Vasco da Gama,Cruzeiro,2,0,21,16,0.53,0.47
+Palmeiras,Grêmio,2,0,7,3,0.39,0.61
+Internacional,São Paulo,3,1,20,10,0.55,0.45
+Atlético Mineiro,América Mineiro,0,0,12,16,0.59,0.41
+Atlético PR,Sport Recife,4,0,31,10,0.68,0.32
+Ceará,Botafogo,0,0,24,10,0.56,0.44
+América Mineiro,Grêmio,1,1,10,15,0.53,0.47
+Botafogo,Bahia,0,1,9,9,0.62,0.38
+São Paulo,Atlético PR,0,0,11,12,0.4,0.6
+Sport Recife,Vasco da Gama,2,1,13,13,0.54,0.46
+Vitória,Corinthians,2,2,13,10,0.45,0.55
+Fluminense,Atlético Mineiro,1,0,13,15,0.56,0.44
+Palmeiras,Ceará,2,1,17,23,0.44,0.56
+Cruzeiro,Chapecoense,3,0,14,17,0.54,0.46
+Paraná,Flamengo,0,4,7,15,0.37,0.63
+Internacional,Santos,2,2,11,4,0.5,0.5
+Cruzeiro,Ceará,0,2,19,8,0.57,0.43
+Vitória,São Paulo,0,1,16,12,0.63,0.37
+Vasco da Gama,Internacional,1,1,14,11,0.57,0.43
+Santos,Fluminense,3,0,27,8,0.66,0.34
+Grêmio,Sport Recife,3,4,19,9,0.67,0.33
+Chapecoense,América Mineiro,1,0,8,8,0.49,0.51
+Flamengo,Palmeiras,1,1,21,10,0.65,0.35
+Corinthians,Bahia,2,1,15,12,0.5,0.5
+Cruzeiro,Paraná,3,1,13,5,0.56,0.44
+Atlético PR,Botafogo,2,1,17,10,0.63,0.37
+Ceará,Atlético Mineiro,2,1,12,12,0.45,0.55
+Atlético Mineiro,Grêmio,0,1,19,13,0.55,0.45
+Fluminense,Vasco da Gama,0,1,21,10,0.61,0.39
+Palmeiras,Santos,3,2,12,10,0.41,0.59
+Paraná,Vitória,1,1,6,14,0.45,0.55
+América Mineiro,Cruzeiro,1,2,17,10,0.56,0.44
+Botafogo,Corinthians,1,0,18,10,0.43,0.57
+São Paulo,Flamengo,2,2,9,17,0.45,0.55
+Bahia,Chapecoense,1,0,10,5,0.61,0.39
+Internacional,Atlético PR,2,1,16,9,0.64,0.36
+Sport Recife,Ceará,1,0,9,15,0.55,0.45
+América Mineiro,Paraná,0,1,16,8,0.61,0.39
+Corinthians,São Paulo,1,1,20,13,0.49,0.51
+Atlético PR,Cruzeiro,2,0,13,14,0.46,0.54
+Botafogo,Flamengo,2,1,14,13,0.41,0.59
+Atlético Mineiro,Palmeiras,1,1,13,8,0.52,0.48
+Vitória,Bahia,2,2,9,14,0.54,0.46
+Ceará,Internacional,1,1,24,6,0.49,0.51
+Grêmio,Vasco da Gama,2,1,25,7,0.63,0.37
+Fluminense,Sport Recife,0,0,19,4,0.58,0.42
+Santos,Chapecoense,0,1,21,10,0.57,0.43
+Vasco da Gama,Atlético PR,1,1,15,20,0.42,0.58
+Paraná,Atlético Mineiro,0,1,7,12,0.31,0.69
+Bahia,Ceará,2,1,22,7,0.61,0.39
+Cruzeiro,Corinthians,1,0,16,14,0.45,0.55
+Sport Recife,Vitória,0,0,15,17,0.53,0.47
+Palmeiras,Fluminense,3,0,19,6,0.51,0.49
+Chapecoense,Botafogo,0,1,16,11,0.5,0.5
+Flamengo,Santos,1,0,21,13,0.58,0.42
+São Paulo,Grêmio,1,1,12,7,0.62,0.38
+Internacional,América Mineiro,2,0,15,12,0.5,0.5
+Vitória,Atlético PR,1,2,13,18,0.56,0.44
+Corinthians,Vasco da Gama,1,0,13,19,0.42,0.58
+Atlético Mineiro,Bahia,1,0,14,9,0.51,0.49
+Paraná,Palmeiras,1,1,10,26,0.36,0.64
+América Mineiro,Santos,2,1,13,8,0.51,0.49
+Botafogo,Internacional,1,0,13,7,0.4,0.6
+Sport Recife,Flamengo,0,1,13,15,0.57,0.43
+São Paulo,Cruzeiro,1,0,12,8,0.54,0.46
+Grêmio,Chapecoense,2,0,18,11,0.64,0.36
+Fluminense,Ceará,0,0,17,13,0.57,0.43
+Internacional,Atlético Mineiro,1,2,18,15,0.56,0.44
+Santos,Botafogo,1,1,19,15,0.49,0.51
+Cruzeiro,Vitória,3,0,16,18,0.51,0.49
+Atlético PR,Corinthians,1,0,17,13,0.51,0.49
+Flamengo,Grêmio,2,0,20,14,0.45,0.55
+Palmeiras,América Mineiro,4,0,26,2,0.49,0.51
+Vasco da Gama,São Paulo,2,0,10,11,0.38,0.62
+Chapecoense,Sport Recife,2,1,14,11,0.42,0.58
+Bahia,Fluminense,2,0,17,7,0.55,0.45
+Ceará,Paraná,1,0,15,4,0.49,0.51
+Santos,Atlético Mineiro,3,2,23,16,0.47,0.53
+Cruzeiro,Flamengo,0,2,25,9,0.53,0.47
+Atlético PR,Ceará,2,2,18,11,0.59,0.41
+Vitória,Grêmio,0,0,14,22,0.46,0.54
+Vasco da Gama,Palmeiras,0,1,9,9,0.47,0.53
+América Mineiro,Bahia,1,0,10,17,0.46,0.54
+Corinthians,Chapecoense,0,0,14,15,0.64,0.36
+Internacional,Fluminense,2,0,22,10,0.6,0.4
+Botafogo,Paraná,2,1,16,11,0.53,0.47
+São Paulo,Sport Recife,0,0,19,5,0.68,0.32
+Atlético Mineiro,Botafogo,1,0,13,11,0.48,0.52
+Flamengo,Atlético PR,1,2,17,12,0.52,0.48
+Paraná,Internacional,1,1,19,9,0.47,0.53
+Chapecoense,São Paulo,1,0,10,7,0.47,0.53
+Bahia,Cruzeiro,0,0,15,19,0.44,0.56
+Fluminense,América Mineiro,1,0,15,20,0.43,0.57
+Ceará,Vasco da Gama,0,0,15,9,0.49,0.51
+Sport Recife,Santos,2,1,10,14,0.49,0.51
+Palmeiras,Vitória,3,2,26,17,0.54,0.46
+Grêmio,Corinthians,1,0,12,4,0.53,0.47
